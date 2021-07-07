@@ -18,7 +18,7 @@ if age >= 18:
 
             if ans == "around":
                 print("You went around and reached the other side of the lake.")
-            elif ans == "across":
+            elif ans == "across": 
                 print("You managed to get across, but were bit by a fish and lost 5 health.")
                 health -= 5
 
